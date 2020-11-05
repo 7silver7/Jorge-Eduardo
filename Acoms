@@ -1,0 +1,47 @@
+[
+    {
+        "titulo": ACOM 1°. TUTORÍAS
+        "subTitulo1": Semestre 1
+        "subTitulo2": Semestre 2
+    }
+    {
+        "titulo": ACOM 2°. PROYECTOS DE INVESTIGACIÓN
+        "subTitulo1": Verano científico o estancias en centros de investigación
+        "subTitulo2": Colaborador en el desarrollo de proyectos de investigación
+        "subTitulo3": Ponencias en simposios, foros, congresos, etc; de divulgación de la ciencia y la tecnología.
+        "subTitulo4": Entrevista en programas de radio y/o televisión para la difusión de la ciencia y la tecnología.
+    }
+    {
+        "titulo": ACOM 3° EVENTOS ACADÉMICOS RELACIONADOS CON LA CARRERA
+        "subTitulo1": Evento académico fase local
+        "subTitulo2": Evento académico fase regional
+        "subTitulo3": Evento académico fase nacional
+        "subTitulo4": Colaboradores en eventos académicos organizados por el instituto
+        "subTitulo5": Participación en congresos académicos nacionales/internacionales, concursos
+        "subTitulo6": Cursos de nivelación académica
+    }
+    {
+        "titulo": ACOM 4°. ACTIVIDADES EXTRAESCOLARES
+        "subTitulo1": Semestre 1
+        "subTitulo2": Semestre 2
+    }
+    {
+        "titulo": ACOM 5°. CONSTRUCCIÓN DE PROTOTIPOS Y DESARROLLO
+        "subTitulo1": Concurso de Innovación Tecnológica Fase local
+        "subTitulo2": Concurso de Innovación Tecnológica Fase regional
+        "subTitulo3": Concurso de Innovación Tecnológica Fase nacional
+        "subTitulo4": Diseño y construcción de prototipos didácticos
+    }
+    {
+        "titulo": ACOM 6°. PARTICIPACIÓN EN EDICIONES
+        "subTitulo1": Revista científica del instituto
+        "subTitulo2": Memoria de congreso
+    }
+    {
+        "titulo": ACOM 7°. PROGRAMAS DE APOYO A LA FORMACIÓN PROFESIONAL
+        "subTitulo1": Cursos/talleres de formación profesional
+        "subTitulo2": Taller de fomento a la lectura
+        "subTitulo3": Actividades de conservación del medio ambiente
+        "subTitulo4": Participación en programas de apoyo a la formación académica (Asesoría estudiante - estudiante)
+    }
+]
